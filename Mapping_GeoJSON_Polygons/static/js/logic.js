@@ -21,6 +21,10 @@ let baseMaps = {
     "Satellite Streets" : satelliteStreets
 };
 
+let overlays ={
+    ""
+}
+
 
 // Create the map object with center, zoom level and default layer.
 let map = L.map('mapid', {
