@@ -12,16 +12,16 @@ The 7-days earthquake data shows the locations of the earthquakes.  They are clu
 
 - #### Deliverable 1:  Tectonic Plate
 
-![image-20220904204243854](Resources\image-20220904204243854.png)
+![image-20220904204243854](Resources/image-20220904204243854.png)
 
 
 
 - ### Deliverable 2: Major Earthquake Data
 
-![image-20220904204846191](Resources\image-20220904204846191.png)
+![image-20220904204846191](Resources/image-20220904204846191.png)
 
 
 
 - ### Deliverable 3: Dark 
 
-  ![image-20220904204758828](Resources\image-20220904204758828.png)
+  ![image-20220904204758828](Resources/image-20220904204758828.png)
